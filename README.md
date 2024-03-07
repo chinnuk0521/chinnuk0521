@@ -1,16 +1,14 @@
-### Hi there 👋
+# Chandu Kalluru
 
-<!--
-**chinnuk0521/chinnuk0521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello! I'm Chandu! 👋
 
-Here are some ideas to get you started:
+🚀 Entry-Level Data Analyst | 📊 Data Enthusiast | 🌱 Lifelong Learner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Studied Computer Science, specializing in data analytics and visualization 📈
+
+🎥 Sharing insights and tutorials on data analysis and visualization on YouTube 📹
+
+🌱 #learninginpublic in my digital garden
+
+🔍 Currently diving deep into the realms of data analytics and data visualization! 📊✨
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chinnuk0521&show_icons=true&theme=radical)
