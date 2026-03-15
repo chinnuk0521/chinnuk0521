@@ -13,8 +13,7 @@
 
 **🌌 BLOCKCHAIN ARCHITECT & AI ENGINEER 🌌**
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Project+Associate+%7C+IIT+Madras;Software+Engineer+%7C+Blockchain+Developer;Freelance+Power+BI+Developer;Building+Decentralized+Systems;Smart+Contract+Architect;AI+%26+Data+Analytics+Expert)
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Founder+%7C+Clykur;Building+Scalable+Products;Creator+of+CusOwn;Creator+of+FreeTrust;AI+%26+Blockchain+Engineer;Power+BI+Developer)
 </div>
 
 ---
@@ -24,12 +23,61 @@
 ```typescript
 interface BlockchainDeveloper {
   name: "Chandu Kalluru";
-  role: "Project Associate - IIT Madras | Software Engineer | Freelance Power BI Developer";
+  role: "Founder & Builder - Clykur (https://clykur.com)";
+  ventures: ["CusOwn", "FreeTrust"];
   education: "B.Tech Computer Science";
   expertise: ["Blockchain", "Smart Contracts", "DLT", "AI/ML", "Data Analytics"];
-  status: "Building the decentralized future";
+  status: "Building scalable digital infrastructure for the next generation";
 }
 ```
+
+---
+
+# 🚀 Clykur Products
+
+<div align="center">
+
+### 🏢 **Clykur**
+**Technology Startup Building Scalable Digital Infrastructure**
+
+🌐 https://clykur.com
+
+</div>
+
+---
+
+### 🧩 CusOwn
+**Smart Appointment Booking Platform**
+
+A modern scheduling infrastructure designed for service businesses to manage bookings, customers, and workflows efficiently.
+
+🌐 https://cusown.clykur.com
+
+**Key Features**
+- Smart appointment scheduling
+- Business dashboard & analytics
+- Customer management
+- Automated booking workflows
+- Scalable SaaS infrastructure
+
+---
+
+### 🤝 FreeTrust
+**The Trust Layer Freelancing Deserves**
+
+A decentralized trust-building platform designed to improve transparency between freelancers and clients.
+
+🌐 https://trust-builder--ns25z203.replit.app
+
+**Key Features**
+
+- Reputation verification
+- Transparent freelancer profiles
+- Trust scoring system
+- Client credibility validation
+- Future blockchain-based verification layer
+
+---
 
 **🎯 Current Focus:**
 - 🔬 Research & Development in Distributed Ledger Technologies (DLTs)
@@ -135,6 +183,20 @@ interface BlockchainDeveloper {
 
 </div>
 
+---
+
+# 🌍 Building the Future with Clykur
+
+At **Clykur**, we focus on building products that improve **trust, automation, and digital infrastructure** for modern businesses.
+
+Current ecosystem:
+
+• CusOwn — Smart Appointment Booking  
+• FreeTrust — Trust Infrastructure for Freelancing  
+
+🚀 More products coming soon.
+
+---
 ---
 
 ## ✨ **Developer Quote**
