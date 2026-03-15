@@ -67,7 +67,7 @@ A modern scheduling infrastructure designed for service businesses to manage boo
 
 A decentralized trust-building platform designed to improve transparency between freelancers and clients.
 
-🌐 https://trust-builder--ns25z203.replit.app
+🌐 https://trustbuilder.clykur.com
 
 **Key Features**
 
