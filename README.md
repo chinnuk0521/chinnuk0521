@@ -13,8 +13,7 @@
 
 **🌌 BLOCKCHAIN ARCHITECT & AI ENGINEER 🌌**
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Founder+%7C+Clykur;Building+Scalable+Products;Creator+of+CusOwn;Creator+of+FreeTrust;AI+%26+Blockchain+Engineer;Power+BI+Developer)
-</div>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Founder+%7C+Clykur;Technical+Cofounder+%7C+Ownerr;Building+Scalable+Products;Creator+of+CusOwn;Creator+of+FreeTrust;AI+%26+Blockchain+Engineer;Power+BI+Developer)
 
 ---
 
