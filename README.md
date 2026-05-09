@@ -1,260 +1,423 @@
-# <div align="center">🔗 **CHANDU KALLURU** 🔗</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:1e3a5f,100:0c4a6e&height=280&section=header&text=CHANDU%20KALLURU&fontSize=56&fontColor=f1f5f9&fontAlignY=48&desc=Founder%20%C2%B7%20Blockchain%20Architect%20%C2%B7%20Systems%20Engineer&descSize=15&descAlignY=68&descColor=94a3b8&animation=fadeIn" width="100%"/>
+
+<div align="center">
+
+<br/>
+
+![](https://img.shields.io/badge/Clykur-Founder-0f172a?style=flat-square&logo=vercel&logoColor=38bdf8&labelColor=0f172a)
+&nbsp;
+![](https://img.shields.io/badge/Ownerr.live-Technical%20Co--Founder-0f172a?style=flat-square&logo=ethereum&logoColor=6366f1&labelColor=0f172a)
+&nbsp;
+![](https://img.shields.io/badge/Status-Building-0f172a?style=flat-square&logo=statuspage&logoColor=10b981&labelColor=0f172a)
+&nbsp;
+![](https://img.shields.io/badge/Open%20to-Collaborations-0f172a?style=flat-square&logo=handshake&logoColor=38bdf8&labelColor=0f172a)
+&nbsp;
+![](https://img.shields.io/badge/Based%20in-India-0f172a?style=flat-square&logo=googlemaps&logoColor=94a3b8&labelColor=0f172a)
+
+<br/>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=%3E_+Founder+%40+Clykur+%E2%80%94+clykur.com;%3E_+Technical+Co-Founder+%40+Ownerr.live;%3E_+Blockchain+Architect+%26+Smart+Contract+Engineer;%3E_+Distributed+Systems+%26+Cloud+Infrastructure;%3E_+Full-Stack+Product+Engineer;%3E_+Cryptography+%26+Zero-Knowledge+Researcher;%3E_+Power+BI+%26+Data+Engineering;%3E_+Cybersecurity+%26+Protocol+Design)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## `01` &nbsp; Identity
+
+<br/>
+
+```
+  $ whoami
+
+  NAME       →   Chandu Kalluru
+  ROLE       →   Founder · Blockchain Architect · Systems Engineer
+  VENTURES   →   Clykur (**Founder**) · Ownerr.live (**Technical Co-Founder**)
+  PRODUCTS   →   CusOwn · FreeTrust
+  EDUCATION  →   B.Tech — Computer Science
+  STACK      →   Blockchain → Cloud → Full-Stack → Data → Security
+  BELIEF     →   "Build systems that outlast the hype."
+  STATUS     →   Shipping · Scaling · Researching · Architecting
+
+  $ ls ./current_focus/
+
+  ├── distributed-ledger-research/
+  ├── zk-proof-identity-systems/
+  ├── multi-cloud-serverless-infrastructure/
+  ├── smart-contract-security-audits/
+  ├── blockchain-data-analytics/
+  └── cusown-v2-architecture/
+```
+
+<br/>
+
+---
+
+## `02` &nbsp; Ventures
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+![](https://img.shields.io/badge/CLYKUR-Founder-0f172a?style=for-the-badge&logo=vercel&logoColor=38bdf8&labelColor=0f172a)
+
+```
+  URL    →  clykur.com
+  Stage  →  Active · Scaling
+  Type   →  Product-First Tech Startup
+```
+
+Technology startup building trust systems, scheduling automation, and tooling that operators rely on silently every day.
+
+```
+  [+]  Multi-product SaaS ecosystem
+  [+]  Blockchain-native trust layers
+  [+]  Serverless-first architecture
+  [+]  Developer-grade product quality
+  [+]  Built for operators, not demos
+```
+
+</td>
+<td width="50%" valign="top">
+
+![](https://img.shields.io/badge/OWNERR.LIVE-Technical%20Co--Founder-0f172a?style=for-the-badge&logo=ethereum&logoColor=6366f1&labelColor=0f172a)
+
+```
+  URL    →  ownerr.live
+  Stage  →  Active · Building
+  Type   →  Decentralised Ownership Platform
+```
+
+Co-architecting the technical backbone of a platform reimagining digital ownership and on-chain identity.
+
+```
+  [+]  Decentralised ownership protocols
+  [+]  Blockchain-backed verification
+  [+]  Scalable backend infrastructure
+  [+]  Token-gated access systems
+  [+]  On-chain provenance tracking
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+## `03` &nbsp; Products
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+![](https://img.shields.io/badge/CUSOWN-Shipped%20%C2%B7%20Live-0f172a?style=for-the-badge&logo=googlecalendar&logoColor=10b981&labelColor=0f172a)
+
+```
+  URL   →  cusown.clykur.com
+  Type  →  SaaS · B2B · Multi-Tenant
+```
+
+Production-grade scheduling SaaS for service businesses demanding real operational depth — not just a booking link.
+
+```
+  [✓]  Multi-tenant booking engine
+  [✓]  Business analytics dashboards
+  [✓]  Customer lifecycle management
+  [✓]  Automated workflow orchestration
+  [✓]  Serverless-first architecture
+  [✓]  Role-based access control
+  [✓]  Real-time slot management
+  [~]  Payment gateway integration    <- roadmap
+  [~]  White-label SDK                <- roadmap
+```
+
+</td>
+<td width="50%" valign="top">
+
+![](https://img.shields.io/badge/FREETRUST-Shipped%20%C2%B7%20Live-0f172a?style=for-the-badge&logo=handshake&logoColor=10b981&labelColor=0f172a)
+
+```
+  URL   →  trustbuilder.clykur.com
+  Type  →  Decentralised · B2C · Web3-Ready
+```
+
+The trust layer the freelancing economy has been missing — radical transparency between clients and independent builders.
+
+```
+  [✓]  Reputation verification engine
+  [✓]  Dynamic trust scoring system
+  [✓]  Client credibility validation
+  [✓]  Transparent freelancer profiles
+  [✓]  Work history transparency
+  [✓]  Dispute resolution framework
+  [~]  ZK-based identity anchoring     <- roadmap
+  [~]  On-chain reputation ledger      <- roadmap
+  [~]  Multi-chain profile portability <- roadmap
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+## `04` &nbsp; Engineering Stack
+
+<br/>
+
+**Blockchain & Web3**
+
+![Solidity](https://img.shields.io/badge/Solidity-7c3aed?style=flat-square&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-627eea?style=flat-square&logo=ethereum&logoColor=white)
+![Hyperledger](https://img.shields.io/badge/Hyperledger-2f3134?style=flat-square&logo=hyperledger&logoColor=white)
+![Hedera Hashgraph](https://img.shields.io/badge/Hedera_Hashgraph-000000?style=flat-square&logo=hedera&logoColor=white)
+![IPFS](https://img.shields.io/badge/IPFS-65c2cb?style=flat-square&logo=ipfs&logoColor=white)
+![Chainlink](https://img.shields.io/badge/Chainlink-375bd2?style=flat-square&logo=chainlink&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-f16822?style=flat-square&logo=web3dotjs&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-3c3c3d?style=flat-square&logo=ethereum&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-f7df1e?style=flat-square&logo=ethereum&logoColor=black)
+
+**Full-Stack Engineering**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-e10098?style=flat-square&logo=graphql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-0ea5e9?style=flat-square&logo=fastapi&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=css3&logoColor=white)
+
+**Cloud, DevOps & Infrastructure**
+
+![AWS](https://img.shields.io/badge/Amazon_AWS-ff9900?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285f4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844fba?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088ff?style=flat-square&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-fcc624?style=flat-square&logo=linux&logoColor=black)
+
+**Data, Databases & Analytics**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-dc382d?style=flat-square&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ecf8e?style=flat-square&logo=supabase&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-f2c811?style=flat-square&logo=powerbi&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL_Server-cc2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**Security, Cryptography & Protocols**
+
+![ZK Proofs](https://img.shields.io/badge/Zero--Knowledge_Proofs-7c3aed?style=flat-square&logo=ethereum&logoColor=white)
+![Cryptography](https://img.shields.io/badge/Cryptography-2563eb?style=flat-square&logo=letsencrypt&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-16a34a?style=flat-square&logo=hackthebox&logoColor=white)
+![Pen Testing](https://img.shields.io/badge/Pen_Testing-111827?style=flat-square&logo=kalilinux&logoColor=white)
+![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-eb5424?style=flat-square&logo=auth0&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![DLT Research](https://img.shields.io/badge/DLT_Research-6366f1?style=flat-square&logo=hyperledger&logoColor=white)
+
+**Developer Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-ff6c37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-f24e1e?style=flat-square&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007acc?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00a1e0?style=flat-square&logo=salesforce&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=black)
+![Jira](https://img.shields.io/badge/Jira-0052cc?style=flat-square&logo=jira&logoColor=white)
+
+<br/>
+
+---
+## `05` &nbsp; GitHub Intelligence
+
+<br/>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chinnuk0521&show_icons=true&hide_border=true&bg_color=ffffff&title_color=2563eb&icon_color=7c3aed&text_color=334155&border_radius=12&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage&custom_title=Activity+Overview&ring_color=7c3aed" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=chinnuk0521&hide_border=true&background=ffffff&ring=2563eb&fire=7c3aed&currStreakLabel=2563eb&sideLabels=475569&dates=64748b&currStreakNum=0f172a&sideNums=334155&border_radius=12" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinnuk0521&hide_border=true&bg_color=ffffff&title_color=2563eb&text_color=334155&border_radius=12&layout=compact&langs_count=8&custom_title=Language+Distribution" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chinnuk0521&theme=default" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=chinnuk0521&bg_color=ffffff&color=2563eb&line=7c3aed&point=0f172a&area_color=bfdbfe&area=true&hide_border=true&custom_title=Contribution+Timeline+%E2%80%94+chinnuk0521&radius=12" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=chinnuk0521&theme=flat&no-frame=true&margin-w=10&margin-h=10&column=7&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,Reviews" />
+
+</div>
+
+<br/>
+
+---
+
+## `06` &nbsp; Execution Roadmap — 2025
+
+<br/>
+
+```
+  ┌──────────────────────────────────────────────────────────────────────────┐
+  │  $ cat roadmap.log                                                       │
+  ├──────────────────────────────────────────────────────────────────────────┤
+  │                                                                          │
+  │  CusOwn v1.0 Launch           ████████████████████  100%  SHIPPED  [✓]  │
+  │  FreeTrust Alpha              ████████████████████  100%  SHIPPED  [✓]  │
+  │  ZK Identity Layer            ████████████████░░░░   82%  ACTIVE   [~]  │
+  │  On-chain Reputation System   ████████████░░░░░░░░   60%  ACTIVE   [~]  │
+  │  Smart Contract Audit Suite   ██████████░░░░░░░░░░   50%  BUILDING [>]  │
+  │  Ownerr.live v2 Infra         ████████░░░░░░░░░░░░   40%  BUILDING [>]  │
+  │  Multi-chain dApp Arch        ████░░░░░░░░░░░░░░░░   20%  PLANNED  [.]  │
+  │  Protocol Cryptography R&D    ██░░░░░░░░░░░░░░░░░░   10%  RESEARCH [o]  │
+  │                                                                          │
+  │  KEY:  [✓] SHIPPED   [~] ACTIVE   [>] BUILDING   [.] PLANNED            │
+  │                                                                          │
+  └──────────────────────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+---
+
+## `07` &nbsp; Engineering Principles
+
+<br/>
+
+```
+  01  →  Write code as if the next engineer has zero context.
+  02  →  Ship early. Refine relentlessly. Never stop iterating.
+  03  →  Decentralisation is not ideology — it is architecture.
+  04  →  The blockchain does not lie. Make your code worthy of it.
+  05  →  A system is only as strong as its weakest cryptographic assumption.
+  06  →  Data without insight is noise. Insight without action is waste.
+  07  →  Build for operators, not for demo audiences.
+  08  →  Cloud is infrastructure. Trust is the product.
+  09  →  Commits are permanent. Make every one count.
+  10  →  Great engineers are invisible. Their systems are not.
+```
+
+<br/>
+
+---
+
+## `08` &nbsp; Connect
+
+<br/>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/chandu-kalluru">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://discord.gg/Qjr6A8D6pX">
+  <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+<a href="https://medium.com/@chinnuk0521">
+  <img src="https://img.shields.io/badge/-Medium-00AB6C?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/chandu.xplorer">
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://quora.com/profile/Chandu">
+  <img src="https://img.shields.io/badge/-Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white" />
+</a>
+
+<a href="https://pinterest.com/chinnuk0521">
+  <img src="https://img.shields.io/badge/-Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" />
+</a>
+
+<a href="https://clykur.com">
+  <img src="https://img.shields.io/badge/-Clykur-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+---
+---
+---
+
+<br/>
 
 <div align="center">
 
 ```
-██████╗ ██╗      ██████╗  ██████╗██╗  ██╗ ██████╗██╗  ██╗ █████╗ ██╗███╗   ██╗
-██╔══██╗██║     ██╔═══██╗██╔════╝██║ ██╔╝██╔════╝██║  ██║██╔══██╗██║████╗  ██║
-██████╔╝██║     ██║   ██║██║     █████╔╝ ██║     ███████║███████║██║██╔██╗ ██║
-██╔══██╗██║     ██║   ██║██║     ██╔═██╗ ██║     ██╔══██║██╔══██║██║██║╚██╗██║
-██████╔╝███████╗╚██████╔╝╚██████╗██║  ██╗╚██████╗██║  ██║██║  ██║██║██║ ╚████║
-╚═════╝ ╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝
+  ┌──────────────────────────────────────────────────────────────────────┐
+  │                                                                      │
+  │   "The chain never forgets. Build like every commit is on-chain."    │
+  │                                                   — Chandu Kalluru  │
+  │                                                                      │
+  └──────────────────────────────────────────────────────────────────────┘
 ```
 
-**🌌 BLOCKCHAIN ARCHITECT & AI ENGINEER 🌌**
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Founder+%7C+Clykur;Technical+Cofounder+%7C+Ownerr;Building+Scalable+Products;Creator+of+CusOwn;Creator+of+FreeTrust;AI+%26+Blockchain+Engineer;Power+BI+Developer)
-
----
-
-## 🚀 **Developer Profile**
-
-interface BuilderProfile {
-  name: "Chandu Kalluru";
-
-  roles: [
-    "Founder & Builder at Clykur",
-    "Technical Co-Founder at Ownerr"
-  ];
-
-  ventures: [
-    "CusOwn",
-    "FreeTrust"
-  ];
-
-  education: "B.Tech in Computer Science & Engineering";
-
-  expertise: [
-    "Blockchain Development",
-    "Smart Contracts",
-    "Distributed Ledger Technology",
-    "AI & Machine Learning",
-    "Data Analytics",
-    "Scalable System Architecture"
-  ];
-
-  mission: "Building scalable digital infrastructure and intelligent products for the next generation.";
-
-  websites: {
-    clykur: "https://clykur.com";
-    ownerr: "https://ownerr.live";
-  };
-}
-
----
-
-# 🚀 Clykur Products
+<br/>
 
 <div align="center">
 
-### 🏢 **Clykur**
-**Technology Startup Building Scalable Digital Infrastructure**
+[![Profile Views](https://visitcount.itsvg.in/api?id=chinnuk0521&icon=5&color=12)](https://portfolio.chandukalluru.com)
 
-🌐 https://clykur.com
+<img src="https://img.shields.io/github/followers/chinnuk0521?label=Followers&style=for-the-badge&color=38bdf8&labelColor=e0f2fe&logo=github&logoColor=0f172a" />
 
-</div>
+<img src="https://img.shields.io/github/stars/chinnuk0521?label=Stars&style=for-the-badge&color=6366f1&labelColor=ede9fe&logo=github&logoColor=0f172a" />
 
----
+<br/><br/>
 
-### 🧩 CusOwn
-**Smart Appointment Booking Platform**
+<img src="https://img.shields.io/badge/Blockchain_Architect-DBEAFE?style=for-the-badge&logo=ethereum&logoColor=2563EB&color=DBEAFE" />
 
-A modern scheduling infrastructure designed for service businesses to manage bookings, customers, and workflows efficiently.
+<img src="https://img.shields.io/badge/Cloud_Engineer-E0F2FE?style=for-the-badge&logo=amazonaws&logoColor=0EA5E9&color=E0F2FE" />
 
-🌐 https://cusown.clykur.com
+<img src="https://img.shields.io/badge/Cryptography_Researcher-EDE9FE?style=for-the-badge&logo=letsencrypt&logoColor=7C3AED&color=EDE9FE" />
 
-**Key Features**
-- Smart appointment scheduling
-- Business dashboard & analytics
-- Customer management
-- Automated booking workflows
-- Scalable SaaS infrastructure
+<img src="https://img.shields.io/badge/Data_Engineer-DCFCE7?style=for-the-badge&logo=powerbi&logoColor=16A34A&color=DCFCE7" />
 
----
-
-### 🤝 FreeTrust
-**The Trust Layer Freelancing Deserves**
-
-A decentralized trust-building platform designed to improve transparency between freelancers and clients.
-
-🌐 https://trustbuilder.clykur.com
-
-**Key Features**
-
-- Reputation verification
-- Transparent freelancer profiles
-- Trust scoring system
-- Client credibility validation
-- Future blockchain-based verification layer
-
----
-
-**🎯 Current Focus:**
-- 🔬 Research & Development in Distributed Ledger Technologies (DLTs)
-- ⚡ Smart Contract Architecture & Security
-- 🧠 AI Model Training & Neural Network Development
-- 📊 Transforming raw data into blockchain insights
-- 🔒 Advanced Cryptographic Protocol Implementation
-
----
-
-## 🌐 **Connect With Me**
-
-<div align="center">
-
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Qjr6A8D6pX)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/chinnus_atelier_0521)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinnus0521-atelier)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@@chinnuk0521)
-[![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/chinnuk0521)
-[![Quora](https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=Quora&logoColor=white)](https://quora.com/profile/Chandu)
+<img src="https://img.shields.io/badge/Founder-FEF3C7?style=for-the-badge&logo=vercel&logoColor=F59E0B&color=FEF3C7" />
 
 </div>
 
----
+<br/>
 
-## 💻 **Technology Stack**
-
-### **Programming Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### **Blockchain & DLT**
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white)
-![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![DLT](https://img.shields.io/badge/Distributed_Ledger-FF6B35?style=for-the-badge&logo=hyperledger&logoColor=white)
-![Cryptography](https://img.shields.io/badge/Cryptography-000000?style=for-the-badge&logo=letsencrypt&logoColor=white)
-![Hashgraph](https://img.shields.io/badge/Hashgraph-00D4AA?style=for-the-badge&logo=ethereum&logoColor=white)
-
-### **AI & Machine Learning**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### **Data & Analytics**
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-FF6B35?style=for-the-badge&logo=tableau&logoColor=white)
-![Data Engineering](https://img.shields.io/badge/Data_Engineering-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### **Development & Tools**
-![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=security&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-25D366?style=for-the-badge&logo=fastapi&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
----
-
-## 📊 **GitHub Analytics**
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=chinnuk0521&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=chinnuk0521&theme=tokyonight&hide_border=true" />
-
-<img width="68%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinnuk0521&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" />
-
-</div>
-
----
-
-## 🏆 **GitHub Trophies**
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=chinnuk0521&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)
-
-</div>
-
----
-
-## 🔥 **Activity Graph**
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chinnuk0521&theme=tokyo-night&bg_color=1a1b27&color=9aa5ce&line=bb9af7&point=e0af68&area=true&hide_border=true)
-
-</div>
-
----
-
-## 💡 **Innovation Metrics**
-
-<div align="center">
-
-| **Smart Contracts** | **Blockchain Projects** | **AI Models** | **Data Dashboards** |
-|:---:|:---:|:---:|:---:|
-| **50+** Deployed | **25+** Active | **100+** Trained | **75+** Created |
-
-</div>
-
----
-
-# 🌍 Building the Future with Clykur
-
-At **Clykur**, we focus on building products that improve **trust, automation, and digital infrastructure** for modern businesses.
-
-Current ecosystem:
-
-• CusOwn — Smart Appointment Booking  
-• FreeTrust — Trust Infrastructure for Freelancing  
-
-🚀 More products coming soon.
-
----
----
-
-## ✨ **Developer Quote**
-
-<div align="center">
-
-![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
-
-</div>
-
----
-
-## 😄 **Random Dev Meme**
-
-<div align="center">
-
-<img src='https://randommeme-five.vercel.app/' style="height: 400px; border-radius: 10px;"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🌟 **"Building the decentralized future, one block at a time"** 🌟
-
-```bash
-$ ./deploy_future.sh --blockchain --ai --innovation
-✅ Smart Contracts Deployed
-✅ Neural Networks Activated  
-✅ Decentralized Systems Online
-🚀 Ready to change the world!
-```
-
----
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=chinnuk0521&icon=4&color=6)](https://visitcount.itsvg.in)
-
-**🔗 Blockchain Developer | 🧠 AI Engineer | 📊 Data Scientist | 🚀 Innovation Catalyst**
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c4a6e,50:1e3a5f,100:0f172a&height=120&section=footer&text=clykur.com&fontSize=14&fontColor=38bdf8&fontAlignY=65&animation=fadeIn" width="100%"/>
