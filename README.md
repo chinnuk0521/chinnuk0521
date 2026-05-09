@@ -1,22 +1,32 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:1e3a5f,100:0c4a6e&height=280&section=header&text=CHANDU%20KALLURU&fontSize=56&fontColor=f1f5f9&fontAlignY=48&desc=Founder%20%C2%B7%20Blockchain%20Architect%20%C2%B7%20Systems%20Engineer&descSize=15&descAlignY=68&descColor=94a3b8&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:1e3a5f,100:0c4a6e&height=280&section=header&text=CHANDU%20KALLURU&fontSize=56&fontColor=f1f5f9&fontAlignY=48&desc=FOUNDER%20%C2%B7%20BLOCKCHAIN%20ARCHITECT%20%C2%B7%20SYSTEMS%20ENGINEER&descSize=15&descAlignY=68&descColor=94a3b8&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
 <br/>
 
-![](https://img.shields.io/badge/Clykur-Founder-0f172a?style=flat-square&logo=vercel&logoColor=38bdf8&labelColor=0f172a)
-&nbsp;
-![](https://img.shields.io/badge/Ownerr.live-Technical%20Co--Founder-0f172a?style=flat-square&logo=ethereum&logoColor=6366f1&labelColor=0f172a)
-&nbsp;
-![](https://img.shields.io/badge/Status-Building-0f172a?style=flat-square&logo=statuspage&logoColor=10b981&labelColor=0f172a)
-&nbsp;
-![](https://img.shields.io/badge/Open%20to-Collaborations-0f172a?style=flat-square&logo=handshake&logoColor=38bdf8&labelColor=0f172a)
-&nbsp;
-![](https://img.shields.io/badge/Based%20in-India-0f172a?style=flat-square&logo=googlemaps&logoColor=94a3b8&labelColor=0f172a)
+<div align="center">
 
-<br/>
+<a href="https://clykur.com">
+  <img src="https://img.shields.io/badge/Clykur-Founder-DBEAFE?style=for-the-badge&logo=vercel&logoColor=2563EB&color=DBEAFE" />
+</a>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=%3E_+Founder+%40+Clykur+%E2%80%94+clykur.com;%3E_+Technical+Co-Founder+%40+Ownerr.live;%3E_+Blockchain+Architect+%26+Smart+Contract+Engineer;%3E_+Distributed+Systems+%26+Cloud+Infrastructure;%3E_+Full-Stack+Product+Engineer;%3E_+Cryptography+%26+Zero-Knowledge+Researcher;%3E_+Power+BI+%26+Data+Engineering;%3E_+Cybersecurity+%26+Protocol+Design)
+<a href="https://ownerr.live">
+  <img src="https://img.shields.io/badge/Ownerr.live-Technical%20Co--Founder-EDE9FE?style=for-the-badge&logo=ethereum&logoColor=7C3AED&color=EDE9FE" />
+</a>
+
+<a href="https://portfolio.chandukalluru.com">
+  <img src="https://img.shields.io/badge/Status-Building-DCFCE7?style=for-the-badge&logo=statuspage&logoColor=16A34A&color=DCFCE7" />
+</a>
+
+<a href="https://portfolio.chandukalluru.com">
+  <img src="https://img.shields.io/badge/Open%20to-Collaborations-E0F2FE?style=for-the-badge&logo=handshake&logoColor=0284C7&color=E0F2FE" />
+</a>
+
+<img src="https://img.shields.io/badge/Based%20in-India-FEF3C7?style=for-the-badge&logo=googlemaps&logoColor=F59E0B&color=FEF3C7" />
+
+</div>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=720&lines=%3E_+FOUNDER+%40+CLYKUR+%E2%80%94+CLYKUR.COM;%3E_+TECHNICAL+CO-FOUNDER+%40+OWNERR.LIVE;%3E_+BLOCKCHAIN+ARCHITECT+%26+SMART+CONTRACT+ENGINEER;%3E_+DISTRIBUTED+SYSTEMS+%26+CLOUD+INFRASTRUCTURE;%3E_+FULL-STACK+PRODUCT+ENGINEER;%3E_+CRYPTOGRAPHY+%26+ZERO-KNOWLEDGE+RESEARCHER;%3E_+POWER+BI+%26+DATA+ENGINEERING;%3E_+CYBERSECURITY+%26+PROTOCOL+DESIGN)
 
 </div>
 
@@ -35,7 +45,7 @@
 
   NAME       →   Chandu Kalluru
   ROLE       →   Founder · Blockchain Architect · Systems Engineer
-  VENTURES   →   Clykur (**Founder**) · Ownerr.live (**Technical Co-Founder**)
+  VENTURES   →   Clykur (Founder) · Ownerr.live (Technical Co-Founder)
   PRODUCTS   →   CusOwn · FreeTrust
   EDUCATION  →   B.Tech — Computer Science
   STACK      →   Blockchain → Cloud → Full-Stack → Data → Security
@@ -64,7 +74,7 @@
 <tr>
 <td width="50%" valign="top">
 
-![](https://img.shields.io/badge/CLYKUR-Founder-0f172a?style=for-the-badge&logo=vercel&logoColor=38bdf8&labelColor=0f172a)
+![](https://img.shields.io/badge/CLYKUR-Founder-0f172a?style=for-the-badge&logo=vercel&logoColor=2563EB&labelColor=2563EB)
 
 ```
   URL    →  clykur.com
@@ -85,7 +95,7 @@ Technology startup building trust systems, scheduling automation, and tooling th
 </td>
 <td width="50%" valign="top">
 
-![](https://img.shields.io/badge/OWNERR.LIVE-Technical%20Co--Founder-0f172a?style=for-the-badge&logo=ethereum&logoColor=6366f1&labelColor=0f172a)
+![](https://img.shields.io/badge/OWNERR.LIVE-Technical%20Co--Founder-0f172a?style=for-the-badge&logo=ethereum&logoColor=2563EB&labelColor=2563EB)
 
 ```
   URL    →  ownerr.live
@@ -119,7 +129,7 @@ Co-architecting the technical backbone of a platform reimagining digital ownersh
 <tr>
 <td width="50%" valign="top">
 
-![](https://img.shields.io/badge/CUSOWN-Shipped%20%C2%B7%20Live-0f172a?style=for-the-badge&logo=googlecalendar&logoColor=10b981&labelColor=0f172a)
+![](https://img.shields.io/badge/CUSOWN-Shipped%20%C2%B7%20Live-0f172a?style=for-the-badge&logo=googlecalendar&logoColor=2563EB&labelColor=2563EB)
 
 ```
   URL   →  cusown.clykur.com
@@ -143,7 +153,7 @@ Production-grade scheduling SaaS for service businesses demanding real operation
 </td>
 <td width="50%" valign="top">
 
-![](https://img.shields.io/badge/FREETRUST-Shipped%20%C2%B7%20Live-0f172a?style=for-the-badge&logo=handshake&logoColor=10b981&labelColor=0f172a)
+![](https://img.shields.io/badge/FREETRUST-Shipped%20%C2%B7%20Live-0f172a?style=for-the-badge&logo=handshake&logoColor=2563EB&labelColor=2563EB)
 
 ```
   URL   →  trustbuilder.clykur.com
@@ -420,4 +430,4 @@ The trust layer the freelancing economy has been missing — radical transparenc
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c4a6e,50:1e3a5f,100:0f172a&height=120&section=footer&text=clykur.com&fontSize=14&fontColor=38bdf8&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c4a6e,50:1e3a5f,100:0f172a&height=120&section=footer&text=CLYKUR.COM&fontSize=14&fontColor=f1f5f9&fontAlignY=65&animation=fadeIn" width="100%"/>
