@@ -19,16 +19,37 @@
 
 ## 🚀 **Developer Profile**
 
-```typescript
-interface BlockchainDeveloper {
+interface BuilderProfile {
   name: "Chandu Kalluru";
-  role: "Founder & Builder - Clykur (https://clykur.com)";
-  ventures: ["CusOwn", "FreeTrust"];
-  education: "B.Tech Computer Science";
-  expertise: ["Blockchain", "Smart Contracts", "DLT", "AI/ML", "Data Analytics"];
-  status: "Building scalable digital infrastructure for the next generation";
+
+  roles: [
+    "Founder & Builder at Clykur",
+    "Technical Co-Founder at Ownerr"
+  ];
+
+  ventures: [
+    "CusOwn",
+    "FreeTrust"
+  ];
+
+  education: "B.Tech in Computer Science & Engineering";
+
+  expertise: [
+    "Blockchain Development",
+    "Smart Contracts",
+    "Distributed Ledger Technology",
+    "AI & Machine Learning",
+    "Data Analytics",
+    "Scalable System Architecture"
+  ];
+
+  mission: "Building scalable digital infrastructure and intelligent products for the next generation.";
+
+  websites: {
+    clykur: "https://clykur.com";
+    ownerr: "https://ownerr.live";
+  };
 }
-```
 
 ---
 
